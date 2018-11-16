@@ -6,7 +6,7 @@ const Index = () => (
   <div>
     <Link href="/contacts">
       <p>
-        test
+        test test
       </p>
     </Link>
   </div>
